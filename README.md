@@ -6,11 +6,11 @@ Auto-lift program is Visitor traffic on your blog, using a BOT to visit the blog
 
 # For Windows
 - Install XAMPP
-- Download https://github.com/IDSYSTEM404/AUTOVISITOR
+- Download 
 - usage : php autovisitor.php
 
 # For Termux or Linux
 - pkg install php
-- git clone https://github.com/IDSYSTEM404/AUTOVISITOR
+- git clone 
 - cd AUTOVISITOR
 - php autovisitor.php
